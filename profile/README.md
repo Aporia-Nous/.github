@@ -8,7 +8,7 @@ Aporia Nous builds production AI automation for operational businesses while eng
 
 ## What We Build for Businesses
 
-We deploy turnkey telecommunications, AI phone receptionists, SMS automations, and CRM integrations for service companies, healthcare clinics, and scaling operations:
+We deploy AI-powered business communications, phone receptionists, SMS automations, and CRM integrations for service companies, healthcare clinics, and scaling operations:
 
 * **[AI Receptionist Demo](https://github.com/Aporia-Nous/ai-receptionist-demo)**: 24/7 conversational front-desk call answering, appointment booking, and live call transfers.
 * **[n8n SMS Automations Suite](https://github.com/Aporia-Nous/n8n-sms-automations)**: Production workflows for instant missed-call text-backs, appointment confirmations, and automated review collection.
@@ -20,7 +20,7 @@ We deploy turnkey telecommunications, AI phone receptionists, SMS automations, a
 
 ## Core Systems Engineering
 
-Alongside enterprise automations, we architect deep, local-first computing infrastructure:
+Alongside production business automations, we architect deep, local-first computing infrastructure:
 
 * **[Morpheus](https://github.com/Aporia-Nous/morpheus)**: A sovereign programming language with an open core, reference interpreter, native C++ runtime header (morph_rt.h), standard library, and interpreter/native conformance test suite.
 * **[Perseus Runtime Demo](https://github.com/Aporia-Nous/perseus-demo)**: A wave-dynamic AI runtime engineered for local execution on commodity consumer hardware without per-token cloud dependencies.
@@ -39,5 +39,5 @@ Alongside enterprise automations, we architect deep, local-first computing infra
 
 ### Leadership & Verification
 
-* **Founder & Systems Architect**: DeAli Dillard ([@DrSinister31](https://github.com/DrSinister31))
+* **Founder & AI Systems Engineer**: DeAli Dillard ([@DrSinister31](https://github.com/DrSinister31))
 * **Organization**: Aporia Nous Computing
